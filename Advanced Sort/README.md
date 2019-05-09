@@ -1,1 +1,4 @@
-
+1. Implement three-way merge sort in Python. It should at a minimum accept lists of integers as input.
+2. Implement a second version of three-way merge sort that calls insertion sort when sublists are below a certain length (of your choice) rather than continuing the subdivision process.
+3. Implement k-way merge sort, where the user specifies k. Develop and run experiments to support a hypothesis about the “best” value of k.
+4. Analyze and compare the practical run times of regular merge sort, three-way merge sort, and the augmented merge sort from (2). Make sure to define what each algorithm's complexity is and to enumerate the explicit assumptions made to assess each algorithm's run time. Your results should be presented in a table, along with an explanatory paragraph and any useful graphs or other charts to document your approach. Part of your analysis should indicate whether or not there is a “best” variation. Compare your benchmarks with the theoretical results.
