@@ -7,4 +7,4 @@
 - access time as a function of the false positive rate
 - access time as a function of the number of items stored
 5. Produce a plot to show that your implementation’s false positive rate matches the theoretically expected rate.
-6. There are several extensions of Bloom filters, e.g. counting Bloom filters, compressed Bloom filters, Bloomier filters. You may also write an introduction to one of these extensions, instead of a standard Bloom filter.
+6. Bloom filter extension: Structured bloom filter.
